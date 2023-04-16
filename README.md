@@ -1,2 +1,2 @@
 # binaryTreeEditor
-project made with react.js +vite 
+project made with react+javascript+vite 
