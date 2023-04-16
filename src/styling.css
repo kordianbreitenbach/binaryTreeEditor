@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+
+.node {
+  border: 1px solid black;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.left-child {
+  float: left;
+}
+
+.right-child {
+  float: right;
+}
+
+
